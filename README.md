@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Vaidik Patel
+- 👀 I’m interested in Machine Learning,AI, Deep Learning and Computer Vision.
+- 📫 You can reach me here - jaganivaidik@gmail.com
+- I am happy that you are here!! :)
